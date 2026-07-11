@@ -1,17 +1,16 @@
-﻿# express.256.co.ug
+﻿# express.256.co.ug / 256express.com build
 
-Production static build for **https://express.256.co.ug** only.
+Production static build.
 
-## Section landing pages
+## Navbar section landings
 
-| Nav item | Path |
+| Nav | Path |
 |---|---|
-| Travel | `/travel` |
-| Delivery | `/deliveries` |
-| Cargo | `/cargo` |
-| Hotels & Accommodation | `/stay` |
-| Food & Drinks | `/food` |
+| Travel | /travel |
+| Delivery | /deliveries |
+| Cargo | /cargo |
+| Plant & Recovery | /plant |
+| Hotels | /stay |
+| Food & Drinks | /food |
 
-- Deploy path on VPS: `/var/www/256express/dist-express`
-- Domain: `express.256.co.ug` (not 256express.com)
-- Source monorepo: https://github.com/queensworld1984-max/256express
+Plant: tow truck, grader, excavator, wheel loader, road roller, construction plant.
